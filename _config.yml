@@ -34,14 +34,14 @@ marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 # Includes an icon for each username you enter
 #
 social-links:
-  github:
-  facebook:
-  twitter:
-  pinterest:
-  instagram:
-  email:
-  youtube: # channel/<your_long_string> or <user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  github: aaaa1001
+  facebook: aaaa1001
+  twitter: aaaa1001
+  pinterest: aaaa1001
+  instagram: aaaa1001
+  email: aaaa1001
+  youtube: aaaa1001 # channel/<your_long_string> or <user-name>
+  googleplus: aaaa1001 # anything in your profile username that comes after plus.google.com/
 
 #
 # Enable/Disable Features & Page Elements
